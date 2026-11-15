@@ -45,6 +45,9 @@ If you find one you love, brilliant. If one isn't for you, that's part of the fu
 Happy steeping,
 The Kettlebird crew
 
+You're getting this because you joined the Kettlebird Tea waitlist.
+Kettlebird Tea, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
+
 ---
 
 ## Version B – Gift buyers
@@ -79,12 +82,15 @@ Not sure what they like? That's fine. Each box is a mix of teas, so there's some
 Happy steeping,
 The Kettlebird crew
 
+You're getting this because you joined the Kettlebird Tea waitlist.
+Kettlebird Tea, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
+
 ---
 
 ## Version C – Daily drinkers
 
 **Subject:** Your daily cup, with something new each month
-**Preview text:** Teas you won't find on the supermarket shelf.
+**Preview text:** Three new teas for your everyday cup.
 
 ---
 
@@ -110,6 +116,9 @@ Each month gives your everyday ritual something new to look forward to. Keep you
 
 Happy steeping,
 The Kettlebird crew
+
+You're getting this because you joined the Kettlebird Tea waitlist.
+Kettlebird Tea, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
 
 ---
 
@@ -142,6 +151,5 @@ Each tea comes with a little card on where it's from and how to brew it just rig
 Happy steeping,
 The Kettlebird crew
 
----
-
-*You're getting this because you joined the Steep Club waitlist. [Unsubscribe]*
+You're getting this because you joined the Kettlebird Tea waitlist.
+Kettlebird Tea, {{company_address}} · Unsubscribe: {{unsubscribe_url}}

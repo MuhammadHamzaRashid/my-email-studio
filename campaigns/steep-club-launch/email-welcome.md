@@ -38,6 +38,9 @@ Until your box arrives, why not put the kettle on anyway? There's no wrong time 
 Happy steeping,
 The Kettlebird crew
 
+You're getting this because you joined The Steep Club.
+Kettlebird Tea, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
+
 ---
 
 ## Version B – Gift buyer
@@ -64,6 +67,9 @@ We hope it brings them many cosy moments.
 
 Happy steeping,
 The Kettlebird crew
+
+You're getting this because you gave The Steep Club as a gift.
+Kettlebird Tea, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
 
 ---
 

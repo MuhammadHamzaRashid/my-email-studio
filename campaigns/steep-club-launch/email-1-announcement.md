@@ -49,9 +49,8 @@ We're so glad you're here. Pop the kettle on, and we'll be in touch soon with a 
 Happy steeping,
 The Kettlebird crew
 
----
-
-*You're getting this because you joined the Steep Club waitlist. [Unsubscribe]*
+You're getting this because you joined the Kettlebird Tea waitlist.
+Kettlebird Tea, {{company_address}} · Unsubscribe: {{unsubscribe_url}}
 
 ---
 
