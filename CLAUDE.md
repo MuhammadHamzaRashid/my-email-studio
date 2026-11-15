@@ -12,7 +12,11 @@ This studio is for planning and writing email campaigns for a small business.
 ## Rules
 
 1. **Write in plain English.** Short sentences, everyday words, no jargon.
-2. **Never send email to real people.** Write drafts and tests only. Do not send anything to a real address, even through Resend.
+2. **Never send email to real people.** Write drafts and tests only. Sending through Resend is allowed only to:
+   - Resend's test addresses (any address ending in `@resend.dev`), and
+   - my own email address (the `MY_EMAIL` value in `.claude/settings.local.json`).
+
+   Never send to anyone else, including the people in `leads/`. A guard will enforce this in the next step.
 3. **Ask me before deleting anything.** This includes files, folders and drafts.
 
 ## Brand voice
