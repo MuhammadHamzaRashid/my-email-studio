@@ -72,7 +72,7 @@ About 2,000 people on our waitlist, in three groups.
 |---|---|---|---|---|
 | **Email** | These people asked to hear from us. It costs very little and we can track every click. | 8 launch emails (some with a version for each group), plus a welcome email for new members. | Medium | Almost all of it: our time, plus the email tool. |
 
-**Not in this plan:** paid ads, social media, PR. If we fall short by week 3, a simple social post or two would be the cheapest next step. That is optional.
+**Not in this plan:** paid ads, social media, PR. If we fall short by week 3, a simple social post or two would be the lowest-cost next step. That is optional.
 
 **Sending rules:**
 - **Stop the launch emails for anyone who subscribes.** They get the welcome email instead.
