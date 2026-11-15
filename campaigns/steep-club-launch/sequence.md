@@ -17,7 +17,7 @@ The email files are in `emails/`. Words in [BRACKETS] are facts we still need to
 | 1 | `01-doors-open.md` | The kettle's on: The Steep Club is open | Announce the club and ask which group each person is in. | Mon 7 Dec | Join The Steep Club | Everyone |
 | 2 | `02-first-box.md` | Peek inside the first Steep Club box | Show the first box, and give the Christmas gift date. | Thu 10 Dec | See the first box | Everyone not yet subscribed |
 | 3 | `03-your-questions.md` | Your Steep Club questions, answered | Answer what holds people back: price, delivery, pausing, gifts. | Thu 17 Dec | Join The Steep Club | Everyone not yet subscribed |
-| 4 | `04-new-year-ritual.md` | A new little ritual for the new year | A calm closing invite, with the first-box cut-off date. | Mon 28 Dec | Start my little ritual | Everyone not yet subscribed |
+| 4 | `04-new-year-ritual.md` | A little ritual for the new year | A calm closing invite, with the first-box cut-off date. | Mon 28 Dec | Start my little ritual | Everyone not yet subscribed |
 
 No more than two emails a week. Nothing from 24 to 26 December.
 
@@ -71,7 +71,7 @@ No more than two emails a week. Nothing from 24 to 26 December.
 - **Gift buyers:** someone who buys a gift for another person also leaves the sequence. They may still want a box for themselves later, but we don't chase.
 - **Don't send to:** anyone who has unsubscribed, or who has emailed us with a problem in the last 2 days.
 - **No re-entry:** once the sequence ends, people go back to our normal emails.
-- **Replies to Email 1:** tag each reply as *beginner*, *gift* or *daily* by hand, or with a simple rule in the email tool. We can use the tags for later campaigns.
+- **Replies to Email 1:** tag each reply as *new*, *gift* or *daily* (the same words Email 1 asks for) by hand, or with a simple rule in the email tool. We can use the tags for later campaigns.
 
 ## A/B tests
 
@@ -96,8 +96,9 @@ Review every Monday during the launch. Write a short wrap-up in `notes/` by Fri 
 
 - Monthly price and delivery cost
 - Number of teas per box, and the first box's teas and tasting notes
-- First box ship date, cut-off date and pack date
+- First box ship date and cut-off date
 - Monthly ship day
 - Pause and cancel policy
 - Gift lengths and the Christmas order-by date
+- How a gift reaches someone before Christmas when the first box ships in January (for example, a gift card). Use the same wording in Emails 2 and 3.
 - How we choose our teas (real facts only, and only say "organic" for certified teas)

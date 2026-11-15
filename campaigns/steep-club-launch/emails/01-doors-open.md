@@ -5,7 +5,7 @@ Hi {{first_name}},
 
 A while ago, you joined our waitlist for The Steep Club. Thank you for waiting so patiently. Good things take time to steep.
 
-Today, the doors are open.
+Today, the doors are open, and we'd love you to be one of our first Steepers.
 
 **How it works**
 
@@ -29,7 +29,7 @@ We'd like to send you the things that suit you best. If you have a moment, hit r
 
 One word is plenty. And if you'd rather not, that's fine too.
 
-On Thursday, we'll show you what's inside the first box.
+Later this week, we'll show you what's inside the first box.
 
 Happy steeping,
 The Kettlebird crew

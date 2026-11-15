@@ -1,5 +1,5 @@
-Subject: A new little ritual for the new year
-Preview: We pack the first boxes on [PACK DATE]. A gentle note before we do.
+Subject: A little ritual for the new year
+Preview: Join by [CUT-OFF DATE] for the first box. A gentle note before we pack.
 
 Hi {{first_name}},
 
@@ -15,7 +15,7 @@ That's what The Steep Club is for. Each month, a box of good tea arrives at your
 - The first boxes ship on **[SHIP DATE]**.
 - [PRICE] a month. Pause or cancel any time.
 
-This is our last note about the launch. If now isn't the right time, that's completely fine. We'll still be here, with the kettle on.
+That's all from us about the launch. If now isn't the right time, that's completely fine. We'll still be here, with the kettle on.
 
 [Start my little ritual](https://kettlebird.example/steep-club)
 
